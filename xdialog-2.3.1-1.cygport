@@ -1,0 +1,6 @@
+DESCRIPTION="X11 replacement for dialog"
+HOMEPAGE="http://xdialog.free.fr/"
+SRC_URI="http://xdialog.free.fr/Xdialog-${PV}.tar.bz2"
+SRC_DIR="Xdialog-${PV}"
+
+CYGCONF_ARGS="--with-print-command=lpr"
