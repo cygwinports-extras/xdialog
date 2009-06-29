@@ -1,5 +1,5 @@
 category: X11
-requires: cygwin libglib1.2_0 libgtk2.0_0
+requires: libglib1.2_0 libgtk2.0_0
 sdesc: "X11 replacement for dialog"
 ldesc: "Xdialog is designed to be a drop in replacement for the dialog 
 or cdialog programs. It converts any terminal based program into a 
